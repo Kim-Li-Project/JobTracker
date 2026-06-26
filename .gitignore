@@ -1,0 +1,23 @@
+# Build output
+bin/
+obj/
+
+# Rider / IntelliJ
+.idea/
+
+# Visual Studio
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Local configuration
+appsettings.Development.json
+
+# Test results and logs
+TestResults/
+logs/
+*.log
